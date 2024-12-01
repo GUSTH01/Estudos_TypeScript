@@ -24,3 +24,8 @@ parar.addEventListener('click', function(event){
 zerar.addEventListener('click', function(event){
     alert('Zerou')
 });
+
+document.addEventListener('click', function(){
+    document.body.style.backgroundColor = 'blue'
+    
+})

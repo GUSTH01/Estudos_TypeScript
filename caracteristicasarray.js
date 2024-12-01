@@ -14,6 +14,7 @@ aluno.push('Leo') // atribui outro elemento no final da lista também
 console.log(aluno)
 
 aluno.pop() // Remove do fim
+aluno.slice(0,-1) // indica que ele vai ler a lista inteira e remover o ultimo -1 remove de traz pra frente
 aluno.shift() // Remove do começo
 console.log(aluno)
 
