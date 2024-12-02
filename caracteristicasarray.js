@@ -13,8 +13,8 @@ aluno.unshift('Paulo') // Atribui no começo
 aluno.push('Leo') // atribui outro elemento no final da lista também
 console.log(aluno)
 
-aluno.pop() // Remove do fim
-aluno.slice(0,-1) // indica que ele vai ler a lista inteira e remover o ultimo -1 remove de traz pra frente
+aluno.pop() // Remove do fim do array
+aluno.slice(0,-1) // remove do fim de uma string não snedo um array ou sendo
 aluno.shift() // Remove do começo
 console.log(aluno)
 
