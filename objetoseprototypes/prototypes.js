@@ -1,0 +1,1 @@
+// Prototypes estão embutidas nas funçoes ou objetos construtores é como criar um método só que fora do objeto
