@@ -25,3 +25,6 @@ esperaAi ('frase 1', aleatorio(1, 3))
 
 })
 .catch()
+
+
+map()
